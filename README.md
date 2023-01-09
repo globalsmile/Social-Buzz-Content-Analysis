@@ -1,5 +1,5 @@
 # Accenture Data Analytics and Visualization Virtual Experience - Social Buzz Content Analysis 
-<img align="right" alt="Social Buzz Content Analysis" width="1000" height = "500" src="(https://user-images.githubusercontent.com/106287208/211251283-a22c9ae7-83ce-4196-acd6-0c2e1bf96eff.png">
+<img align="right" alt="Social Buzz Content Analysis" width="1000" height = "500" src="https://user-images.githubusercontent.com/106287208/211251283-a22c9ae7-83ce-4196-acd6-0c2e1bf96eff.png">
 
 ---
 
@@ -45,9 +45,9 @@ The purpose of this analysis is to highlight the top 5 content categories with t
 
 # Data Sourcing
 
-The Dataset used for this analysis was provided by [Accenture](https://10alytics.io/) and is available at:
+The Dataset used for this analysis was provided by [Accenture](https://www.theforage.com/fast-track/data-analytics-virtual-experience/overview) and is available at:
 
-- [Social media buzz datasets](https://drive.google.com/drive/folders/1_pPCjVLhIA8_pn5LFSIzMcvjFXT15oM7?usp=share_link)
+- [Social media buzz datasets](https://drive.google.com/drive/folders/11ClQl1UeFOM8Tan19OXmh1_AIJkUfUu_?usp=share_link)
 
 ---
 
@@ -145,7 +145,7 @@ After the dataset was cleaned and transformed, it was ready to be modeled(using 
 
 The relationship formed in the data model is shown below:
 
-<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/211148517-aa46241c-140e-41e3-a64b-ae6d01c30f2f.png">
+<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/211252573-a49a496d-14ab-43e1-866b-fd2018c3f509.png">
 
 
 
@@ -153,30 +153,36 @@ The relationship formed in the data model is shown below:
 
 # Data Visualization and Analysis
 
-- The analysis aimed to highlight the top 5  categories of content with the largest aggregate popularity .
+- The analysis aimed to highlight the top 5  categories of content with the largest aggregate popularity.
 
 To achieve this set goal:-
 
 I created a visualization showing the top 5 categories of content. Animals and science are the two most popular categories of content with over 75k and 71k posts respectively showing that people enjoy “real-life” and “factual” content the most.
 
-![image](https://user-images.githubusercontent.com/106287208/211149892-465fc0b1-e2cf-43a8-bd03-1e4f2960a052.png)
+![image](https://user-images.githubusercontent.com/106287208/211252846-a8c58d44-fe42-4600-8177-d5153a25cf0d.png)
 
 
 - Food had an aggregate popularity score of almost 67000. It is very interesting to see both food and cooking within the top 5, it really shows what people enjoy consuming as content. But also, interesting to see culture too. Clearly users favor “real-life” content on this platform.
 
-![image](https://user-images.githubusercontent.com/106287208/211150389-df6b6a7d-5d52-4e94-ab19-0008888f08e5.png)
+![image](https://user-images.githubusercontent.com/106287208/211252975-dca549c6-f72f-425a-a2bb-deb94a5cb861.png)
 
 
-
-- Furthermore, soccer is an interesting category because there is the European championships being played very soon. This presents a huge opportunity for you to differentiate your platform and to run specific 
-content or events linked to this global spectacle.
+- Furthermore, soccer is an interesting category because there is the European championships being played very soon. This presents a huge opportunity for you to differentiate your platform and to run specific content or events linked to this global spectacle.
 
 ---
 
 # Insight
 
+From the data we found that you had a total of 16 unique categories of posts across from datasets. This includes things such as Food, Culture and Sport.
+As well as this, there was 1897 posts from just the Animal category alone! People obviously really like real-life content!
+And, the most common month for users to post within was january with over 2141 posts, this such a seasonal month with so many holidays 
+and events, this is interesting to know that people are most active during this month!
+
+![image](https://user-images.githubusercontent.com/106287208/211253743-a732c675-7eb5-4f58-ab6c-f8efb75535f9.png)
+
+
 Food is a common theme with the top 5 categories with “Healthy Eating” ranking the highest. This may give an indication to the audience within your userbase.
-You could use insight to create a campaign and work with healthy eating brands to boost user engagement.
+You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
 
 ---
@@ -191,4 +197,4 @@ This ad-hoc analysis is insightful, but it’s time to take this analysis int la
 
 You can interact with the report here: 
 
-[View Report](https://app.powerbi.com/view?r=eyJrIjoiMWI3MzYzMmQtNDBkMC00MWRhLTlmNjYtYTQ5MWYwOWFiNWVlIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiZTYyYTM0YmItYzgxNS00ZjAyLWE0MjItZjBkM2Y5NjZhMjRjIiwidCI6IjQ5ODY4YWYzLWNjNWYtNDIxNC04YjdmLTQwZjM3NDY0OWEwOSJ9)
